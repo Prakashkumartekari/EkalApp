@@ -1,0 +1,18 @@
+export default {
+  icHome: require('../assets/images/home.png'),
+  icChats: require('../assets/images/chats.png'),
+  icassignment: require('../assets/images/assignment.png'),
+  icEvent: require('../assets/images/event.png'),
+  icOk: require('../assets/images/ok.png'),
+  loginhead: require('../assets/images/loginhead.png'),
+  loginmiddle: require('../assets/images/loginmiddle.png'),
+  loginbottom: require('../assets/images/loginbottom.png'),
+  forgotbottom: require('../assets/images/loginbottom.png'),
+  forgothead: require('../assets/images/forgothead.png'),
+  forgotmiddle: require('../assets/images/forgot.png'),
+  fingerprint: require('../assets/images/fingerprint.png'),
+  arrowback: require('../assets/icons/arrowback.png'),
+  userjpg: require('../assets/images/user.jpg'),
+  splashhead: require('../assets/images/splashhead.png'),
+  splashbottom: require('../assets/images/splashbottom.png'),
+};
